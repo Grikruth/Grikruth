@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerem Buda</h1>
-<h3 align="center">Jr. back-end developer from Turkey.</h3>
+<h3 align="center">Jr. back-end developer from Istanbul.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grikruth&label=Profile%20views&color=0e75b6&style=flat" alt="grikruth" /> </p>
 
