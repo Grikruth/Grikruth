@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **bootcamps**
 
-- 🌱 I’m currently learning **Rust,Java,Python,Solidity,Substrate**
+- 🌱 I’m currently learning **Java,Python, OOP**
 
 - 👨‍💻 All of my projects are available at at [https://github.com/Grikruth](https://github.com/Grikruth)
 
