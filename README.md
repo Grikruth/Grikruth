@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grikruth&label=Profile%20views&color=0e75b6&style=flat" alt="grikruth" /> </p>
 
 
-- 🔭 I’m currently working on **bootcamps**
+- 🔭 I’m currently working on **cohorts and bootcamps, mostly on patika . dev**
 
 - 🌱 I’m currently learning **Java,Python, OOP**
 
