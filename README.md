@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Java,Python, OOP**
 
+- Check out my challanges at [https://www.codewars.com/users/Grikruth](https://www.codewars.com/users/Grikruth)
+
 - 👨‍💻 All of my projects are available at at [https://github.com/kerembuda](https://github.com/kerembuda)
 
 - 📫 How to reach me **kerembuda98@gmail.com**
